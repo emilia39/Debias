@@ -1,4 +1,4 @@
-# Debias: Bridging the Fairness Gap: Enhancing Pre-trained Models with LLM-Generated Sentences 
+# Fair-Gender: Bridging the Fairness Gap: Enhancing Pre-trained Models with LLM-Generated Sentences 
 
 
 ## Environment Setup
